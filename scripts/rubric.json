@@ -1,0 +1,9 @@
+{
+  "criteria": [
+    {
+      "id": 1,
+      "description": "Code compiles successfully",
+      "weight": 1
+    }
+  ]
+}
